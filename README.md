@@ -14,10 +14,10 @@ I am a professional with 15 years of experience in a global mining company and I
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ellenpaes)
 
-## Projetos:
-Veja os projetos desenvolvidos durante os estudos:
+## Projects:
+See below my projects and analysis during my studies::
 
-* **Analisando os dados do Airbnb:** 
+* **Airbnb Data Analysis:** 
 
 
 ---
