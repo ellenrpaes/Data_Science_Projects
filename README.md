@@ -17,7 +17,7 @@ I am a professional with 15 years of experience in a global mining company and I
 ## Projects:
 See below my projects and analysis during my studies:
 
-* **Airbnb Data Analysis:** 
+* **Airbnb Data Analysis:** https://bit.ly/2N0fXoQ
 
 
 ---
