@@ -17,7 +17,7 @@ I am a professional with 15 years of experience in a global mining company and I
 ## Projects:
 See below my projects and analysis during my studies:
 
-* **Airbnb Data Analysis:** https://bit.ly/2N0fXoQ
+* **Airbnb Analysis - Montreal/Canada:** https://bit.ly/2N0fXoQ
 * **Violence Analysis in Rio de Janeiro:** https://bit.ly/30VWIFb
 
 
