@@ -19,6 +19,7 @@ See below my projects and analysis during my studies:
 
 * **Airbnb Analysis - Montreal/Canada:** https://bit.ly/2N0fXoQ
 * **Violence Analysis in Rio de Janeiro:** https://bit.ly/30VWIFb
+* **Coronavirus Analysis:** https://bit.ly/307nfNC
 
 
 ---
