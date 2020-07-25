@@ -21,6 +21,6 @@ See below my projects and analysis during my studies:
 * **Violence Analysis in Rio de Janeiro:** https://bit.ly/30VWIFb
 * **Coronavirus Analysis:** https://bit.ly/307nfNC
 * **Module 1 Challenge Bootcamp Machine Learning Analyst:** https://bit.ly/39chxOB
-
+* **Challenge Sigmoidal - HR Analysis and Prediction:** https://bit.ly/39xZNNV
 
 ---
