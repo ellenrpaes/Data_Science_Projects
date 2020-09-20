@@ -22,5 +22,5 @@ See below my projects and analysis during my studies:
 * **Coronavirus Analysis:** https://bit.ly/307nfNC
 * **Module 1 Challenge Bootcamp Machine Learning Analyst:** https://bit.ly/39chxOB
 * **Challenge Sigmoidal - HR Analysis and Prediction:** https://bit.ly/39xZNNV
-
+* **Credit Card Fraud Anomaly Detection:** https://bit.ly/33Ik692
 ---
