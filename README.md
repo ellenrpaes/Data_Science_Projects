@@ -17,7 +17,7 @@ I am a professional with 16 years of experience in a global mining company and I
 ## Projects:
 See below my projects and analysis during my studies:
 
-* **Airbnb Analysis - Montreal/Canada:** https://bit.ly/2N0fXoQ
+* **Airbnb Analysis - Montreal/Canada:** https://bit.ly/337C3P5
 * **Violence Analysis in Rio de Janeiro:** https://bit.ly/30VWIFb
 * **Coronavirus Analysis:** https://bit.ly/307nfNC
 * **Module 1 Challenge Bootcamp Machine Learning Analyst:** https://bit.ly/39chxOB
