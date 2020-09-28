@@ -18,7 +18,7 @@ I am a professional with 16 years of experience in a global mining company and I
 See below my projects and analysis during my studies:
 
 * **Airbnb Analysis - Montreal/Canada:** https://bit.ly/337C3P5
-* **Violence Analysis in Rio de Janeiro:** https://bit.ly/30VWIFb
+* **Violence Analysis in Rio de Janeiro:** https://bit.ly/3j9Q7gC
 * **Coronavirus Analysis:** https://bit.ly/307nfNC
 * **Module 1 Challenge Bootcamp Machine Learning Analyst:** https://bit.ly/39chxOB
 * **Challenge Sigmoidal - HR Analysis and Prediction:** https://bit.ly/39xZNNV
