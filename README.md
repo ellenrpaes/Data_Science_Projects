@@ -20,6 +20,6 @@ See below my projects and analysis during my studies:
 * **Airbnb Analysis - Montreal/Canada:** https://bit.ly/337C3P5
 * **Violence Analysis in Rio de Janeiro:** https://bit.ly/3j9Q7gC
 * **Coronavirus Analysis:** https://bit.ly/2S3Z9Qn
-* **Challenge Sigmoidal - HR Analysis and Prediction:** https://bit.ly/39xZNNV
+* **Challenge Sigmoidal - HR Analysis and Prediction:** https://bit.ly/2FYi9NV
 * **Credit Card Fraud Anomaly Detection:** https://bit.ly/3hMF8s5
 ---
