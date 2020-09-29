@@ -17,9 +17,9 @@ I am a professional with 16 years of experience in a global mining company and I
 ## Projects:
 See below my projects and analysis during my studies:
 
+* **Credit Card Fraud Anomaly Detection:** https://bit.ly/2S6lhK3
 * **Airbnb Analysis - Montreal/Canada:** https://bit.ly/337C3P5
 * **Violence Analysis in Rio de Janeiro:** https://bit.ly/3j9Q7gC
 * **Coronavirus Analysis:** https://bit.ly/2S3Z9Qn
 * **Challenge Sigmoidal - HR Analysis and Prediction:** https://bit.ly/2FYi9NV
-* **Credit Card Fraud Anomaly Detection:** https://bit.ly/3hMF8s5
 ---
