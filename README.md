@@ -17,6 +17,7 @@ I am a professional with 16 years of experience in a global mining company and I
 ## Projects:
 See below my projects and analysis during my studies:
 
+* **Telecom Churn Prediction:** https://bit.ly/3dSW2oj
 * **Credit Card Fraud Anomaly Detection:** https://bit.ly/2S6lhK3
 * **Airbnb Analysis - Montreal/Canada:** https://bit.ly/337C3P5
 * **Violence Analysis in Rio de Janeiro:** https://bit.ly/3j9Q7gC
